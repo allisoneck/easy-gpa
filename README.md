@@ -77,7 +77,9 @@ Tasks:
 Please Choose 1 2 3 or 4:
 
 ## Example GPA Calculation
-Your Semester GPA: 3.45 \n
+
+Your Semester GPA: 3.45
+
 Your Cumulative GPA: 3.62
 
 ------------------------------------------------------------------------------------------------------------------------------
