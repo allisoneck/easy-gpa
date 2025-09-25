@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg) 
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 
-Easy GPA is a Python program that helps students calculate, view, and manage their GPA across semesters.
+Easy GPA is a Python program that helps MSU students calculate, view, and manage their GPA across semesters.
 It features a simple login system to allow multiple users to track their grades seperately using the same terminal.
 
 ------------------------------------------------------------------------------------------------------------------------------
