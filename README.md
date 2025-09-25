@@ -52,20 +52,8 @@ It features a simple login system to allow multiple users to track their grades 
 
 # Usage
 When you run the program, you will see the following options:
-1. Log In
-   A. View Grades
-     i. View Semester Grades
-     ii. View All Grades
-   B. Edit Grades
-     i. Add New Grades
-       - Add New Semester
-       - Add to Existing Semester
-     ii. Edit Existing Grades
-   C. Calculate GPA
-     i. Calculate Semester GPA
-     ii. Calculate Cumulative GPA
-   D. Sign Off
-2. Sign Up
+1. Log In (followed by task menu)
+2. Sign Up (followed by log in)
 
 ------------------------------------------------------------------------------------------------------------------------------
 # DEMO
