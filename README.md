@@ -9,7 +9,7 @@ It features a simple login system to allow multiple users to track their grades 
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-# Table of Contents
+## Table of Contents
 - [Features](#features)
 - [Getting Started](#getting-started-)
   - [Prerequisites](#prerequisites)
@@ -21,7 +21,7 @@ It features a simple login system to allow multiple users to track their grades 
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-# Features
+## Features
 - User login and sign-up system
 - Add, edit, and view grades by semester
 - Calculate semester GPA and overall GPA
@@ -29,12 +29,12 @@ It features a simple login system to allow multiple users to track their grades 
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-# Getting Started
+## Getting Started
 
-## Prerequisites
+### Prerequisites
 - Python 3.x installed on your computer
 
-## Installation
+### Installation
 1. Clone this repository:
    ```bash
    git clone https://github.com/allisoneck/easy-gpa.git
@@ -50,15 +50,15 @@ It features a simple login system to allow multiple users to track their grades 
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-# Usage
+## Usage
 When you run the program, you will see the following options:
 1. Log In (followed by task menu)
 2. Sign Up (followed by log in)
 
 ------------------------------------------------------------------------------------------------------------------------------
-# DEMO
+## DEMO
 
-## Start Menu
+#### Start Menu
 Welcome to Easy GPA!
 
 1. Log In
@@ -66,7 +66,7 @@ Welcome to Easy GPA!
 
 Please Choose 1 or 2: 
 
-## Task Menu
+#### Task Menu
 Tasks: 
 
 1. View Grades
@@ -76,7 +76,7 @@ Tasks:
 
 Please Choose 1 2 3 or 4:
 
-## Example GPA Calculation
+#### Example GPA Calculation
 
 Your Semester GPA: 3.45
 
@@ -84,7 +84,7 @@ Your Cumulative GPA: 3.62
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-# Contributing
+## Contributing
 Pull requests are welcome. If you's like to make major changes, please open an issue first.
 
 ------------------------------------------------------------------------------------------------------------------------------
