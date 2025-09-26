@@ -13,7 +13,8 @@ password_specifications = """Passwords Must Contain At Least One of The Followin
 1. Lowercase Letter
 2. Uppercase Letter
 3. Number 0 - 9
-4. Special Character (! @ # $ % ^ & * ( ) + = < > , . ?)"""
+4. Special Character (! @ # $ % ^ & * ( ) + = < > , . ?)
+"""
 
 tasks_menu = """Tasks:
 
